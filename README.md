@@ -3,8 +3,6 @@
 
 A feature-rich scientific calculator built with HTML, CSS, and JavaScript. This calculator provides standard arithmetic operations as well as advanced mathematical functions.
 
-![Scientific Calculator Screenshot](screenshots/calculator.png)
-
 ## Features
 
 - **Basic Operations**
